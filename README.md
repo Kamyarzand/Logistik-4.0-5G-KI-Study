@@ -1,28 +1,39 @@
-# Wissenschaftliche Arbeit: Logistik 4.0 – IoT-Anwendungen mit 5G-Netzwerken mit Schwerpunkt KI
+# Academic Paper: Logistics 4.0 – IoT Applications with 5G Networks Focusing on AI
 
-**Autoren:** Kamyar Zand, Leila Farzinnia
-**Einrichtung:** Ostfalia Hochschule für angewandte Wissenschaften
-**Status:** Abgeschlossene Studienarbeit (SS 2025)
-
----
-
-## Zusammenfassung (Abstract)
-
-Diese wissenschaftliche Arbeit untersucht die **Konvergenz von Internet of Things (IoT), 5G-Netzwerktechnologie und Künstlicher Intelligenz (KI)** als fundamentalen Pfeilern der Logistik 4.0. Die Analyse konzentriert sich darauf, wie die Hochleistungseigenschaften von 5G – insbesondere URLLC (Ultra-Reliable Low-Latency Communication) und Network Slicing – als entscheidende Enabler für verzögerungsfreie IoT-Anwendungen in logistischen Prozessen dienen.
-
-Ein Schwerpunkt liegt auf der Rolle der KI bei der Ermöglichung **autonomer und optimierter Logistik-Szenarien**. Dies umfasst Anwendungsfälle wie:
-* **Smart Warehousing:** Effiziente Verwaltung und Automatisierung.
-* **Prädiktive Wartung:** KI-gestützte Vorhersage von Ausfällen autonomer Transportsysteme (AGVs) zur Sicherstellung des Betriebs.
-* **Supply Chain Optimization:** Optimierung der gesamten Lieferkette bis zur letzten Meile.
-
-Die Arbeit diskutiert zudem die technischen Herausforderungen (wie Interoperabilität und Cybersicherheit) sowie die Chancen, die sich aus der Nutzung dieser Technologien für die Steigerung von Effizienz, Skalierbarkeit und Nachhaltigkeit in modernen Lieferketten ergeben.
+**Course:** Digitalisierung in der Logistik (Digitalization in Logistics)
+**Authors:** Kamyar Zand, Leila Farzinnia
+**Institution:** Ostfalia University of Applied Sciences
+**Status:** Completed Study Project (SS 2025)
 
 ---
 
-## Repository-Inhalt
+## Abstract
 
-* **Logistik 4.0 – IoT-Anwendungen mit 5G-Netzwerken mit Schwerpunkt KI- Kamyar-Leila.pdf:** Die vollständige wissenschaftliche Arbeit (PDF).
-* **analysis_code/** (Optional): Hier können alle Python- oder R-Skripte zur Datenanalyse oder Generierung von Grafiken abgelegt werden.
+This academic paper provides an in-depth analysis of the **convergence of the Internet of Things (IoT), 5G network technology, and Artificial Intelligence (AI)** as the fundamental pillars driving Logistics 4.0. The study investigates how the high-performance characteristics of 5G—particularly URLLC (Ultra-Reliable Low-Latency Communication) and Network Slicing—serve as critical enablers for time-sensitive IoT applications within logistics processes.
 
-## Zitierung
-Die Arbeit wurde als Studienleistung im Rahmen des Kurses [نام درس را اینجا بنویسید] an der Ostfalia Hochschule erstellt.
+A key focus is placed on the transformative role of AI in enabling **autonomous, optimized, and predictive logistics scenarios**. This includes detailed analysis of use cases such as:
+* **Smart Warehousing:** Optimizing management and automation through AI-driven systems.
+* **Predictive Maintenance:** AI-based forecasting of malfunctions in Automated Guided Vehicles (AGVs) using real-time 5G data.
+* **Supply Chain Optimization:** Enhancing transparency and efficiency from distribution to the 'last mile'.
+
+The paper further discusses the significant technical challenges (e.g., interoperability, cybersecurity, and reliability) and the immense opportunities that arise from leveraging these integrated technologies to boost efficiency, scalability, and sustainability in modern supply chains.
+
+---
+
+## Repository Contents
+
+* **Logistik 4.0 – IoT-Anwendungen mit 5G-Netzwerken mit Schwerpunkt KI- Kamyar-Leila.pdf:** The complete scientific paper in German (PDF).
+* **analysis_code/** (Optional): Directory for any analytical scripts used to support the paper's findings.
+
+## Usage and Replication
+
+If this repository contains code or datasets used in the study, users should refer to the specific documentation within the `analysis_code/` folder for instructions on setup and replication.
+
+---
+
+### Getting Started (5G/IoT/AI Basics)
+
+For a better understanding of the underlying technologies discussed, key concepts include:
+* **Enhanced Mobile Broadband (eMBB):** For high-speed data transmission (e.g., video streams).
+* **Ultra-Reliable Low Latency Communication (URLLC):** Essential for autonomous control systems (e.g., AGV steering).
+* **Massive Machine Type Communication (mMTC):** For connecting a massive number of sensors efficiently.
