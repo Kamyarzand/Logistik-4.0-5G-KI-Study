@@ -20,20 +20,10 @@ The paper further discusses the significant technical challenges (e.g., interope
 
 ---
 
-## Repository Contents
+### Key Technological Concepts
 
-* **Logistik 4.0 – IoT-Anwendungen mit 5G-Netzwerken mit Schwerpunkt KI- Kamyar-Leila.pdf:** The complete scientific paper in German (PDF).
-* **analysis_code/** (Optional): Directory for any analytical scripts used to support the paper's findings.
-
-## Usage and Replication
-
-If this repository contains code or datasets used in the study, users should refer to the specific documentation within the `analysis_code/` folder for instructions on setup and replication.
-
----
-
-### Getting Started (5G/IoT/AI Basics)
-
-For a better understanding of the underlying technologies discussed, key concepts include:
-* **Enhanced Mobile Broadband (eMBB):** For high-speed data transmission (e.g., video streams).
+This study relies on the critical integration of the following core concepts:
 * **Ultra-Reliable Low Latency Communication (URLLC):** Essential for autonomous control systems (e.g., AGV steering).
-* **Massive Machine Type Communication (mMTC):** For connecting a massive number of sensors efficiently.
+* **Network Slicing:** Enabling dedicated virtual networks with guaranteed Quality of Service (QoS) for specific logistical tasks.
+* **Predictive Analytics:** AI-driven models that use real-time IoT data to forecast equipment failure or demand shifts.
+* **Massive Machine Type Communication (mMTC):** For connecting the vast array of sensors required for comprehensive tracking and smart warehouse monitoring.
